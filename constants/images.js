@@ -5,7 +5,7 @@ export const avatar_4 = require("../assets/images/avatar-4.jpg");
 export const avatar_5 = require("../assets/images/avatar-5.jpg");
 export const baked_fries = require("../assets/images/baked-fries.jpg");
 export const burger_restaurant_2 = require("../assets/images/burger-restaurant-2.jpg");
-export const burger_restaurant = require("../assets/images/burger-restaurant.jpg");
+export const burger_restaurant_1 = require("../assets/images/burger-restaurant-1.jpg");
 export const chicago_hot_dog = require("../assets/images/chicago-hot-dog.jpg");
 export const crispy_chicken_burger = require("../assets/images/crispy-chicken-burger.jpg");
 export const fries_restaurant = require("../assets/images/fries-restaurant.jpg");
@@ -36,7 +36,7 @@ export default {
     avatar_5,
     baked_fries,
     burger_restaurant_2,
-    burger_restaurant,
+    burger_restaurant_1,
     chicago_hot_dog,
     crispy_chicken_burger,
     fries_restaurant,
